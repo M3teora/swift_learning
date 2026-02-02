@@ -1,17 +1,25 @@
 # swift_learning
 
-To begin with: 
+**To begin with:**
+- [x] [WWDC24: SwiftUI essentials][wwdc24]
+- [x] [CS50 | Harvard][cs50] 
+- [ ] [CS193p | Stanford][cs193p]
 
-- [x] [WWDC24: SwiftUI essentials | Apple](https://www.youtube.com/watch?v=HyQgpxX__-A)
-- [x] [CS50 | Harvard](https://cs50.harvard.edu/)  
-- [ ] [CS193p | Stanford](https://cs193p.stanford.edu/)
+**Save for later:**
+- [Develop in Swift Tutorials][apple-tutorials]
+- [Human Interface Guidelines][hig]
+- [Kodeco][kodeco]
 
-Save for later: 
+**Roadmaps:**
+- [artyom.space][artyom]
+- [roadmap.sh][roadmap]
 
--[Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)
--[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) 
--[Kodeco](https://www.kodeco.com/)
+[wwdc24]: https://www.youtube.com/watch?v=HyQgpxX__-A
+[cs50]: https://cs50.harvard.edu/
+[cs193p]: https://cs193p.stanford.edu/
+[apple-tutorials]: https://developer.apple.com/tutorials/develop-in-swift/
+[hig]: https://developer.apple.com/design/human-interface-guidelines/
+[kodeco]: https://www.kodeco.com/
+[artyom]: https://artyom.space/swift-roadmap/
+[roadmap]: https://roadmap.sh/ios
 
-Roadmaps: 
--[artyom.space](https://artyom.space/swift-roadmap/)
--[roadmap.sh](https://roadmap.sh/ios)
