@@ -8,10 +8,10 @@ To begin with:
 
 Save for later: 
 
-[Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)
-[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) 
-[Kodeco](https://www.kodeco.com/)
+-[Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)
+-[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) 
+-[Kodeco](https://www.kodeco.com/)
 
 Roadmaps: 
-[artyom.space](https://artyom.space/swift-roadmap/)
-[roadmap.sh](https://roadmap.sh/ios)
+-[artyom.space](https://artyom.space/swift-roadmap/)
+-[roadmap.sh](https://roadmap.sh/ios)
